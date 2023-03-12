@@ -1,0 +1,263 @@
+img{
+    max-width: 100%;
+    height: auto;
+}
+.map_wrapper{
+    margin:0 auto; /**/
+    max-width: 1500px;
+    position: relative;
+}
+
+.map_wrapper svg{
+    position: absolute;
+    top: -2px;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.country_official{
+    fill:#c8102e;
+    fill-opacity:0.2;
+    cursor: pointer;
+}
+
+/**/
+.country_official_usa{
+    fill:#c8102e;
+    fill-opacity:0.2;
+    cursor: pointer;
+}
+
+.country_official_uk{
+    fill:#c8102e;
+    fill-opacity:0.2;
+    cursor: pointer;
+}
+/**/
+
+
+.country_one_of_official{
+    fill:#012169;
+    fill-opacity:0.3;
+    cursor: pointer;
+}
+
+.oceania{
+    fill:#fffb00;
+    fill-opacity:0.2;
+    cursor: pointer;
+}
+
+svg #usa:hover path {
+    fill:#c8102e;
+    fill-opacity:0.8;
+}
+
+svg #canada:hover path {
+    fill:#c8102e;
+    /* fill:#012169; */
+    fill-opacity:0.8;
+}
+
+svg #canada:hover path {
+    fill:#c8102e;
+    /* fill:#012169; */
+    fill-opacity:0.8;
+}
+
+svg #belize:hover path {
+    fill:#c8102e;
+    fill-opacity:0.8;
+}
+
+svg #australia:hover path {
+    fill:#c8102e;
+    fill-opacity:0.8;
+}
+
+svg #new_zealand:hover path {
+    fill:#c8102e;
+    fill-opacity:0.8;
+}
+
+svg #guyana:hover path {
+    fill:#c8102e;
+    fill-opacity:0.8;
+}
+
+svg #trinidad_and_tobago:hover path { /*jamieka*/
+    fill:#c8102e;
+    fill-opacity:0.8;
+}
+
+svg #jameika:hover path { /*jamieka*/
+    fill:#c8102e;
+    fill-opacity:0.8;
+}
+
+svg #bahamas:hover path { 
+    fill:#c8102e;
+    fill-opacity:0.8;
+}
+
+svg #barbados:hover path { 
+    fill:#c8102e;
+    fill-opacity:0.8;
+}
+
+svg #saint_lucia:hover path { 
+    fill:#c8102e;
+    fill-opacity:0.8;
+}
+
+svg #malaysia:hover path { 
+    fill:#012169;
+    fill-opacity:0.8;
+}
+
+svg #singapore:hover path { 
+    fill:#012169;
+    fill-opacity:1.0;
+}
+
+svg #philippines:hover path { 
+    fill:#012169;
+    fill-opacity:0.8;
+}
+
+svg #india:hover path { 
+    fill:#012169;
+    fill-opacity:0.8;
+}
+
+svg #pakistan:hover path { 
+    fill:#012169;
+    fill-opacity:0.8;
+}
+
+svg #shri_lanka:hover path { 
+    fill:#012169;
+    fill-opacity:0.8;
+}
+
+svg #uk:hover path { 
+    fill:#c8102e;
+    fill-opacity:0.8;
+}
+
+svg #ireland:hover path { 
+    fill:#c8102e;
+    fill-opacity:0.8;
+}
+
+svg #malta:hover path { 
+    fill:#c8102e;
+    fill-opacity:0.8;
+}
+
+svg #oceania:hover path {
+    fill:#fffb00;
+    fill-opacity:0.8;
+}
+
+/*Afrika*/
+svg #gambia:hover path { 
+    fill:#012169;
+    fill-opacity:0.8;
+}
+
+svg #siera_leone:hover path { 
+    fill:#012169;
+    fill-opacity:0.8;
+}
+
+svg #liberia:hover path { 
+    fill:#012169;
+    fill-opacity:0.8;
+}
+
+svg #ghana:hover path { 
+    fill:#012169;
+    fill-opacity:0.8;
+}
+
+svg #swaziland:hover path { 
+    fill:#012169;
+    fill-opacity:0.8;
+}
+
+svg #lesotho:hover path { 
+    fill:#012169;
+    fill-opacity:0.8;
+}
+
+svg #republic_of_south_africa:hover path { 
+    fill:#012169;
+    fill-opacity:0.8;
+}
+
+svg #malawi:hover path { 
+    fill:#012169;
+    fill-opacity:0.8;
+}
+
+svg #zambia:hover path { 
+    fill:#012169;
+    fill-opacity:0.8;
+}
+
+svg #rwanda:hover path { 
+    fill:#012169;
+    fill-opacity:0.8;
+}
+
+svg #namibia:hover path { 
+    fill:#012169;
+    fill-opacity:0.8;
+}
+
+svg #botswana:hover path { 
+    fill:#012169;
+    fill-opacity:0.8;
+}
+
+svg #zimbabwe:hover path { 
+    fill:#012169;
+    fill-opacity:0.8;
+}
+
+svg #uganda:hover path { 
+    fill:#012169;
+    fill-opacity:0.8;
+}
+
+svg #tanzania:hover path { 
+    fill:#012169;
+    fill-opacity:0.8;
+}
+
+svg #kenya:hover path { 
+    fill:#012169;
+    fill-opacity:0.8;
+}
+
+svg #nigeria:hover path { 
+    fill:#012169;
+    fill-opacity:0.8;
+}
+
+svg #cameroon:hover path { 
+    fill:#012169;
+    fill-opacity:0.8;
+}
+
+svg #south_sudan:hover path { 
+    fill:#012169;
+    fill-opacity:0.8;
+}
+
+svg #sudan:hover path { 
+    fill:#012169;
+    fill-opacity:0.8;
+}
