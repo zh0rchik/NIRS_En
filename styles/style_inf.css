@@ -57,7 +57,7 @@
     }
 
     .info__text{
-        max-height: 130px;
+        max-height: 135px;
         overflow: auto;
     }
 }
