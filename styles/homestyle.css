@@ -385,7 +385,7 @@ a {
         align-items: center;
     }
     #about_project img{
-        min-width: none;
+        min-width: auto;
     }
 }
 
@@ -646,6 +646,7 @@ a {
     background-color: #c8102e;
     height: 100%;
     padding: 10px;
+    color: #eeeeee;
 }
 .footer-top__container {
 
