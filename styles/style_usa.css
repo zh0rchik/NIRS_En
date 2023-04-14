@@ -43,3 +43,35 @@ svg .state_usa:hover path {
     fill:#0202ff;
     fill-opacity:1.0;
 }
+.first-box_usa {
+    padding: 60px 0px;
+}
+#about_project_usa{
+    margin-top: 28px;
+    display: flex;
+    flex-direction: row;
+    padding: 0 20px;
+    font-size: 22px;
+    align-self: center;
+    align-items: center;
+}
+
+#about_project_usa div{
+    padding-left: 10%;
+}
+
+#about_project_usa img{
+    width: 2000px;
+}
+
+@media (max-width: 960px) {
+    #about_project_usa{
+        align-self: center;
+        display: block;
+        flex-direction: column;
+        align-items: center;
+    }
+    #about_project_usa img{
+        min-width: auto;
+    }
+}
